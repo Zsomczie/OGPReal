@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: -3937290823640119635}
   - component: {fileID: 6394389911673323338}
   - component: {fileID: -2267555703823796913}
-  - component: {fileID: 3126773430741836870}
+  - component: {fileID: 3887154923840256228}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -279,7 +279,7 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
---- !u!136 &3126773430741836870
+--- !u!136 &3887154923840256228
 CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -290,7 +290,7 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
-  m_Height: 1
+  m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &8894544477920551421
